@@ -1,0 +1,9 @@
+/*
+ * Author: Ronan Sprake [ronansprake@gmail.com]
+ * Project: Lowestoft China Website
+ * Comment: IE7 and below stylesheet
+ */
+
+header nav li {
+	display: inline;
+}
